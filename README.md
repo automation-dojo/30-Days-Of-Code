@@ -4,6 +4,10 @@ A 30-day video tutorial series for people with no programming experience and wan
 
 Here are the solutions to all the HackerRank challenge questions For this series. Join [HERE](http://hr.gs/fdeeee) to practice.
 
+### The following is the list of Problems:-
+#
+#### 0. [Day 0: Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem)
+
 ### The following is the list of Solutions:-
 #
 #### 0. [Day0](https://github.com/sagarchoudhary96/30-Days-Of-Code/tree/master/Day0)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6. [Day6](https://github.com/sagarchoudhary96/30-Days-Of-Code/tree/master/Day6)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12. [Day12](https://github.com/sagarchoudhary96/30-Days-Of-Code/tree/master/Day12)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;18. [Day18](https://github.com/sagarchoudhary96/30-Days-Of-Code/tree/master/Day18)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;24. [Day24](https://github.com/sagarchoudhary96/30-Days-Of-Code/tree/master/Day24)
